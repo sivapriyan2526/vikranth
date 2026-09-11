@@ -1,0 +1,6 @@
+{
+  "name": "GovMobile",
+  "description": "A mobile-first government service platform making public services fast, accessible, multilingual (Tamil + English), and easy to use for all citizens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
